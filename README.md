@@ -1,16 +1,15 @@
-## Hi there 👋
+# Howdy!
 
-<!--
-**yarbro/yarbro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is David Yarbro and I'm a Software Engineer currently living in San Antonio, TX.
 
-Here are some ideas to get you started:
+I'm a Rubyist by trade, but I like to mix it up and use whatever language best suits the situation. My mission? Making the web a more fun place to be 🐸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Let's Connect
+
+I'd love to hear from you! Reach out through any of these channels:
+
+- 🌐 **Personal Website** → [yarb.ro](https://yarb.ro)
+- 💼 **LinkedIn** → [linkedin.com/in/yarbro](https://www.linkedin.com/in/yarbro/)
+- 💬 **GitHub** → Right here!
+
+---
