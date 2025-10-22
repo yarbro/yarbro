@@ -11,3 +11,5 @@ I'd love to hear from you! Reach out through any of these channels:
 - 🌐 **Personal Website** → [yarb.ro](https://yarb.ro)
 - 💼 **LinkedIn** → [linkedin.com/in/yarbro](https://www.linkedin.com/in/yarbro/)
 - 💬 **GitHub** → Right here!
+
+![Visitor Badge](https://yarb.ro/github/badge)
